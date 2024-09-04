@@ -84,6 +84,10 @@ In order to evaluate customer performance, we focused on the following key metri
 
 ## Presentation Sample [Link to Full Presentation](https://docs.google.com/presentation/d/1m2yux7EM2ghopHhGQKm7nsPT79QW-50hOZXslKWmNbA/edit#slide=id.p)
 ![image](https://github.com/user-attachments/assets/c4e538ee-2bec-4ab1-a773-3f260162f2ae)
+![image](https://github.com/user-attachments/assets/e075b9f2-5022-47a9-82e9-829f221a6feb)
+![image](https://github.com/user-attachments/assets/e92b3fa3-e21e-4bd9-934b-fb1f7369831c)
+
+
 
 
 
