@@ -63,7 +63,7 @@ In order to evaluate customer performance, we focused on the following key metri
 
 ## Recommendations
 ### Increase Revenue per User by Upselling to Higher Tiers:
-- **Target High-Revenue Countries:**  Focus upselling efforts on Germany, Italy, and Brazil due to their higher basic subscription revenue percentages.
+- **Target Countries with High Proportion of Basic Subscription Type:** Focus upselling efforts on Germany, Italy, and Brazil due to their higher Upselling opportunities.
 - **Leverage CLTV Data:** Prioritize countries like the UK, France, and Australia with the highest CLTV per user, while investigating why these users upgrade more frequently or stay subscribed longer.
 - **Introduce Limited-Time Offers:** Offer trial periods for higher tiers to incentivize upgrades.
 - **Early Access Incentives:** Provide early access to premium content to encourage users to experience and upgrade to higher tiers.
