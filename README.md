@@ -77,17 +77,17 @@ In order to evaluate customer performance, we focused on the following key metri
 - **Incentivise new signups:** provide discounts and perks for limited time to new subscribers.
 - **Marketing Focus:** Increase efforts on social media and SEO in underperforming markets in terms of total users like the UK, Italy, and Mexico.
 
-## Dashboard
+## Dashboard [Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDNmZmZkNzQtNTI4Zi00OGI0LWJkNDUtMDRiMmMzN2NkYWUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ![image](https://github.com/user-attachments/assets/f839ec7a-71e9-4d49-94dc-8d52d23eed40)
 
 ![image](https://github.com/user-attachments/assets/b3a6ad1e-5160-48f2-90b9-650f1dadd720)
 
-## Presentation Sample
+## Presentation Sample [Link to Full Presentation](https://docs.google.com/presentation/d/1m2yux7EM2ghopHhGQKm7nsPT79QW-50hOZXslKWmNbA/edit#slide=id.p)
 ![image](https://github.com/user-attachments/assets/c4e538ee-2bec-4ab1-a773-3f260162f2ae)
 
 
 
 
-[Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDNmZmZkNzQtNTI4Zi00OGI0LWJkNDUtMDRiMmMzN2NkYWUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-[Link to Full Presentation](https://docs.google.com/presentation/d/1m2yux7EM2ghopHhGQKm7nsPT79QW-50hOZXslKWmNbA/edit#slide=id.p)
+
+
