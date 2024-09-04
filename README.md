@@ -42,7 +42,7 @@ In order to evaluate customer performance, we focused on the following key metri
 
 ### Average Subscription Duration
 - The United Kingdom has the **longest average subscription duration per user** at 11.54 months, while Italy records the shortest duration at 10.83 months.
-- The **overall average subscription duration** across all users is 11.59 months.
+- The **overall average subscription duration** across all users is 11.19 months.
 - **Average subscription duration by device:**
   - Tablet users: 11.28 months
   - Smartphone users: 11.22 months
