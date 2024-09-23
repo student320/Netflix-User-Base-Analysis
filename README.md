@@ -10,7 +10,7 @@ Netflix is a leading streaming service provider offering a wide variety of telev
 The dataset used in this analysis consists of the following information:
 
 * User ID: Unique identifier for each user
-*Subscription Type: Subscription type (Basic, Standard, or Premium)
+* Subscription Type: Subscription type (Basic, Standard, or Premium)
 * Monthly Revenue: Revenue generated per user per month
 * Join Date: Date user joined	
 * Last Payment Date: Date user made last payment	
