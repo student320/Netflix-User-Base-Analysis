@@ -34,7 +34,7 @@ In order to evaluate customer performance, we focused on the following key metri
 - **Revenue distribution across devices** is nearly equal, with each device type contributing close to 25%.
 
 
-### CLTV:
+### Customer Life Time Value (CLTV):
 - The United States has the highest **total CLTV** at $63,336 but ranks 5th in **average CLTV per user** at $140.
 - The United Kingdom leads in **average CLTV per user**, reaching $145, compared to the overall average of $139.98 across all users.
 - Mexico has the **lowest total CLTV** at $25,218, primarily due to a low subscriber count.
